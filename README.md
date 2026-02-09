@@ -1,6 +1,6 @@
 # Synopsis
 
-Hi! I'm **Arlirad** a/k/a **Tymoteusz**. I do the coding kind of thing in mostly in **C#**, occasionally dabbling with **TS** in *Angular* alongside **Python** usually in *Blender* and formerly in **C++**.
+Hi! I'm **Arlirad** a/k/a **Tymoteusz**. I do the coding kind of thing in mostly in **C#**, occasionally dabbling with **TS** in *Angular* alongside **Python** usually in *Blender*, and formerly in **C++**.
 
 I like to tinker around and build projects even for the sole purpose of experimenting with new approaches.
 
